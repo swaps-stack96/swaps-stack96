@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - Docker
 - K8s
 - AZ-900 Certified
-![Github stats](https://github-readme-stats.vercel.app/api?username=nidhipatel439&theme=material-palenight&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=swaps-stack96&theme=material-palenight&show_icons=true&count_private=true)
